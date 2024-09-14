@@ -1,0 +1,4 @@
+pydub
+yt-dlp  
+SpeechRecognition
+fastapi[standard]
